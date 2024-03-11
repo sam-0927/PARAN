@@ -4,7 +4,7 @@
 
 ## Abstract
 
-<img src='architecture.png'>
+<img src='demo_architecture.png'>
 
 Deep learning-based articulatory-to-speech (ATS) systems designed for individuals with speech disorders have been extensively researched in recent years. However, conventional methods have faced challenges in effectively representing the transformation in latent space across speech and electromagnetic articulography (EMA) domains, resulting in low speech quality. In this paper, we propose a variational autoencoder (VAE)-based end-to-end ATS model called PARAN that efficiently produces high-fidelity speech waveforms from EMA signals. Our model adjusts a prior distribution of latent representations from EMA signals to match a posterior distribution derived from speech waveforms through the utilization of a normalizing flow mechanism. To further enhance the clarity and understanding of the synthesized speech, we incorporate an additional loss function aimed at predicting phonetic information from EMA signals. Experimental results demonstrate that our model outperforms previous methods in terms of speech quality and intelligibility.
 
