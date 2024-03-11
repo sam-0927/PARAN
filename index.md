@@ -17,7 +17,7 @@ Kim et al.: “Style modeling for multispeaker articulation-to-speech” in ICAS
 
 <table style="width: 100%; word-wrap: normal; text-align: center;" borded="1" border-collapse="collapse">
 <tr>
-<td style="column-width: 20\%"><strong>Sample index</strong></td>
+<td style="column-width: 50\%"><strong>Sample index</strong></td>
 <td style="column-width: 20\%"><strong>1</strong></td>
 <td style="column-width: 20\%"><strong>2</strong></td>
 <td style="column-width: 20\%"><strong>3</strong></td>
@@ -44,7 +44,7 @@ Kim et al.: “Style modeling for multispeaker articulation-to-speech” in ICAS
 <td style="column-width: 20\%"><strong>24</strong></td>
 </tr>
 <tr>
-<td style="column-width: 20\%"><strong>Reference</strong></td>
+<td style="column-width: 50\%"><strong>Reference</strong></td>
  <td><audio controls><source src='./demo_sample/ref/ref_F01_B04_S21_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/ref/ref_F01_B06_S44_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/ref/ref_F01_B07_S03_R01_F.wav'></audio></td>
@@ -71,7 +71,7 @@ Kim et al.: “Style modeling for multispeaker articulation-to-speech” in ICAS
 <td><audio controls><source src='./demo_sample/ref/ref_M04_B10_S39_R01_F.wav'></audio></td>
 </tr>
 <tr>
-<td style="column-width: 20\%"><strong>Gaddy et al.</strong></td>
+<td style="column-width: 50\%"><strong>Gaddy et al.</strong></td>
  <td><audio controls><source src='./demo_sample/baseline/F01_B04_S21_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/baseline/F01_B06_S44_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/baseline/F01_B07_S03_R01_F.wav'></audio></td>
@@ -98,7 +98,7 @@ Kim et al.: “Style modeling for multispeaker articulation-to-speech” in ICAS
 <td><audio controls><source src='./demo_sample/baseline/M04_B10_S39_R01_F.wav'></audio></td>
 </tr>
 <tr>
-<td style="column-width: 20\%"><strong>Wu et al.</strong></td>
+<td style="column-width: 50\%"><strong>Wu et al.</strong></td>
 <td><audio controls><source src='./demo_sample/deep/F01_B04_S21_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/deep/F01_B06_S44_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/deep/F01_B07_S03_R01_F.wav'></audio></td>
@@ -124,7 +124,7 @@ Kim et al.: “Style modeling for multispeaker articulation-to-speech” in ICAS
 <td><audio controls><source src='./demo_sample/deep/M04_B03_S58_R02_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/deep/M04_B10_S39_R01_F.wav'></audio></td>
 <tr>
-<td style="column-width: 20\%"><strong>Kim et al.</strong></td>
+<td style="column-width: 50\%"><strong>Kim et al.</strong></td>
  <td><audio controls><source src='./demo_sample/msota/F01_B04_S21_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/msota/F01_B06_S44_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/msota/F01_B07_S03_R01_F.wav'></audio></td>
@@ -151,7 +151,7 @@ Kim et al.: “Style modeling for multispeaker articulation-to-speech” in ICAS
 <td><audio controls><source src='./demo_sample/msota/M04_B10_S39_R01_F.wav'></audio></td>
 </tr>
 <tr>
-<td style="column-width: 20\%"><strong>PARAN (Ours)</strong></td>
+<td style="column-width: 50\%"><strong>PARAN (Ours)</strong></td>
   <td><audio controls><source src='./demo_sample/ours/F01_B04_S21_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/ours/F01_B06_S44_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/ours/F01_B07_S03_R01_F.wav'></audio></td>
@@ -179,7 +179,7 @@ Kim et al.: “Style modeling for multispeaker articulation-to-speech” in ICAS
 </tr>
 
 <tr>
-<td style="column-width: 20\%"><strong>Reference w/o enhance</strong></td>
+<td style="column-width: 50\%"><strong>Reference w/o enhance</strong></td>
 <td><audio controls><source src='./demo_sample/ref_wo_enh/ref_wo_enh_F01_B04_S21_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/ref_wo_enh/ref_wo_enh_F01_B06_S44_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/ref_wo_enh/ref_wo_enh_F01_B07_S03_R01_F.wav'></audio></td>
@@ -206,7 +206,7 @@ Kim et al.: “Style modeling for multispeaker articulation-to-speech” in ICAS
 <td><audio controls><source src='./demo_sample/ref_wo_enh/ref_wo_enh_M04_B10_S39_R01_F.wav'></audio></td>
 </tr>
 <tr>
-<td style="column-width: 20\%"><strong>PARAN w/o enhance</strong></td>
+<td style="column-width: 50\%"><strong>PARAN w/o enhance</strong></td>
 <td><audio controls><source src='./demo_sample/ablation/F01_B04_S21_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/ablation/F01_B06_S44_R01_N.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/ablation/F01_B07_S03_R01_F.wav'></audio></td>
