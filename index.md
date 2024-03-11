@@ -1,4 +1,4 @@
-# Bluemarble
+# PARAN
 
 ### Submitted to Interspeech (Paper number: 366)
 
