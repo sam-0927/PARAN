@@ -1,4 +1,4 @@
-### Submitted to Interspeech (Paper number: 366)
+### Submitted to Interspeech 2024 (Paper number: 366)
 
 ## Abstract
 
